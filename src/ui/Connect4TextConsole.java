@@ -7,7 +7,7 @@
  */
 package ui;
 
-import core.Connect4.Model;
+import core.Model;
 
 /**
  * Connect4TextConsole

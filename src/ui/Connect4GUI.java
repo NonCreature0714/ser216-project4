@@ -5,7 +5,7 @@
 
 package ui;
 
-import core.Connect4.Model;
+import core.Model;
 
 import javafx.animation.TranslateTransition;
 import javafx.application.Application;

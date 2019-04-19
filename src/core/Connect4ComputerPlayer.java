@@ -13,8 +13,6 @@ package core;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-import core.Connect4.Controller;
-
 public class Connect4ComputerPlayer {
     private Controller controller;
 
